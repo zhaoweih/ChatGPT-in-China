@@ -90,15 +90,18 @@ https://chat.openai.com/auth/login
 
 ![](./images/acceptnumber.png)
 
-最后注册成功啦，Enjoy it!
+最后注册成功啦，Have fun with ChatGPT!
 
 ![](./images/chatgpt-homepage.png)
 
+# 讨论
 
+## Discord
 
-预告：下一篇会说ChatGPT api的调用
+**我创建了一个discord聊天室，遇到问题的小伙伴可以一起讨论**
+[![alt text](./images/discord.svg  "discordapp")](https://discord.gg/wHFxCVk)
 
-## Buy ME a Coffee💴 (Alipay HK or 支付宝)
+# Buy ME a Coffee💴 (Alipay HK or 支付宝)
 
 <img src="./images/award.png" style="zoom: 33%;" />
 
