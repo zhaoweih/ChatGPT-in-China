@@ -34,7 +34,9 @@
 
 https://sms-activate.org/cn
 
-因为现在国内的手机号是不能注册GPT的，所以需要一个国外的接收验证码的平台，这里我推荐https://sms-activate.org/cn，因为这个平台可以接受支付宝付款。大概2.06人民币左右接一个码，突然感觉淘宝那些卖号的几十块还是共享号的商家真是含泪赚了你的钱。
+因为现在国内的手机号是不能注册GPT的，所以需要一个国外的接收验证码的平台，这里我推荐https://sms-activate.org/cn
+
+因为这个平台可以接受支付宝付款。大概2.06人民币左右接一个码，突然感觉淘宝那些卖号的几十块还是共享号的商家真是含泪赚了你的钱。
 
 ### 1.充值
 
@@ -58,7 +60,7 @@ https://sms-activate.org/cn
 
 ![](./images/sms-4.png)
 
-然后复制平台给你的号码
+然后复制平台给你的号码(注意：这个页面先不要关闭，后面会有用)
 
 ![](./images/sms-5.png)
 
@@ -98,7 +100,7 @@ https://chat.openai.com/auth/login
 
 ## Buy ME a Coffee💴 (Alipay HK or 支付宝)
 
-<img src="./images/award.png" style="zoom:50%;" />
+<img src="./images/award.png" style="zoom: 33%;" />
 
 
 
