@@ -99,7 +99,7 @@ https://chat.openai.com/auth/login
 ## Discord
 
 **我创建了一个discord聊天室，遇到问题的小伙伴可以一起讨论**
-[![alt text](./images/discord.svg  "discordapp")](https://discord.gg/wHFxCVk)
+[![alt text](./images/discord.svg  "discordapp")](https://discord.gg/RKYWZNZKPe)
 
 # Buy ME a Coffee💴 (Alipay HK or 支付宝)
 
