@@ -1,14 +1,8 @@
 # 如何在国内注册ChatGPT账号
 
-> 注意：此文章应用场景适合中国大陆、香港和澳门，其他地区的读者可以跳过这个文章。
->
-> Note: This article is intended for readers in mainland China, Hong Kong, and Macau. Readers in other regions can skip this article.
->
-> 对文章有任何疑问可以提issue或者联系我邮箱：zhaoweihao.dev@gmail.com
+> 对文章有任何疑问可以提[issue](https://github.com/zhaoweih/ChatGPT-in-China/issues)或者联系我邮箱：zhaoweihao.dev@gmail.com
 
 # 开始
-
-好的，废话不多说了进入正题。**以下用GPT代称ChatGPT**。
 
 ## 准备一个翻墙代理：
 
@@ -22,7 +16,7 @@
 
 ## 准备一个国外的接码平台：
 
-https://sms-activate.org/cn
+https://sms-activate.org/?ref=4254497
 
 因为现在国内的手机号是不能注册GPT的，所以需要一个国外的接收验证码的平台，这里我推荐https://sms-activate.org/cn
 
@@ -90,13 +84,3 @@ https://chat.openai.com/auth/login
 
 **我创建了一个discord聊天室，遇到问题的小伙伴可以一起讨论**
 [![alt text](./images/discord.svg  "discordapp")](https://discord.gg/RKYWZNZKPe)
-
-# Buy ME a Coffee💴 (Alipay HK or 支付宝)
-
-<img src="./images/award.png" style="zoom: 33%;" />
-
-
-
-------
-
-转载请标注原文链接
