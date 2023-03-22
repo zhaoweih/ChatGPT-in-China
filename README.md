@@ -8,7 +8,7 @@
 
 如果没有代理的可以参考我这篇文章去配置一个科学上网:https://github.com/zhaoweih/Shadowsocks-Tutorial
 
-因为GPT封了中国区，所以首先得准备一个翻墙代理，切换到**非大陆和香港**节点。
+因为ChatGPT封了中国区，所以首先得准备一个翻墙代理，切换到**非大陆和香港**节点。
 
 配置好后可以到https://whoer.net/zh 这个网站查看你当前的IP是不是国外的
 
@@ -52,8 +52,6 @@ https://sms-activate.org/?ref=4254497
 
 ## 注册ChatGPT账号：
 
-https://chat.openai.com/auth/login
-
 打开https://chat.openai.com/auth/login 官网后点击右边的Sign Up注册账号
 
 ![](./images/chatgpt-signup.png)
@@ -70,7 +68,7 @@ https://chat.openai.com/auth/login
 
 ![](./images/chatgpt-number.png)
 
-最后到接码平台输入下验证码就可以
+最后到接码平台输入下验证码就可以(提示：如果长时间接收不到验证码可以换个手机号试下，换手机号是免费的)
 
 ![](./images/acceptnumber.png)
 
