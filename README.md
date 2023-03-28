@@ -78,7 +78,8 @@ https://sms-activate.org/?ref=4254497
 
 # 讨论
 
-## Discord
+## TG群
 
-**我创建了一个discord聊天室，遇到问题的小伙伴可以一起讨论**
-[![alt text](./images/discord.svg  "discordapp")](https://discord.gg/RKYWZNZKPe)
+**我创建了一个TG群，遇到问题的小伙伴可以一起讨论**
+
+[![alt text](./images/Logo.png  "telegram")](https://t.me/+dtYvomE5rQI0ZjFl)
