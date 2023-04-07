@@ -1,6 +1,8 @@
 # 如何在国内注册ChatGPT账号
 
 > 对文章有任何疑问可以提[issue](https://github.com/zhaoweih/ChatGPT-in-China/issues)或者联系我邮箱：zhaoweihao.dev@gmail.com
+>
+> 如果需要ChatGPT Plus合租的小伙伴可以到这里上车：[环球巴士🚌](https://universalbus.cn/r?s=OWKBr5bts6eR)
 
 # 开始
 
