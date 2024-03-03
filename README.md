@@ -2,15 +2,15 @@
 
 > 对文章有任何疑问可以提[issue](https://github.com/zhaoweih/ChatGPT-in-China/issues)或者联系我邮箱：zhaoweihao.dev@gmail.com
 >
-> 如果需要ChatGPT Plus合租的小伙伴可以到这里上车(建议用手机浏览器打开)：https://universalbus.cn/r?s=OWKBr5bts6eR
+> 如果需要ChatGPT Plus合租的小伙伴可以到这里上车：https://universalbus.cn/r?s=OWKBr5bts6eR
 
 # 开始
 
 ## 准备一个翻墙代理：
 
-如果没有代理的可以参考我这篇文章去配置一个科学上网:https://github.com/zhaoweih/Shadowsocks-Tutorial
-
 因为ChatGPT封了中国区，所以首先得准备一个翻墙代理，切换到**非大陆和香港**节点。
+
+如果没有代理的可以参考我这篇文章去配置一个科学上网:https://github.com/zhaoweih/Shadowsocks-Tutorial
 
 配置好后可以到https://whoer.net/zh 这个网站查看你当前的IP是不是国外的
 
@@ -22,7 +22,7 @@ https://sms-activate.org/?ref=4254497
 
 因为现在国内的手机号是不能注册GPT的，所以需要一个国外的接收验证码的平台
 
-因为这个平台可以接受支付宝付款。大概2.06人民币左右接一个码，突然感觉淘宝那些卖号的几十块还是共享号的商家真是含泪赚了你的钱。
+因为这个平台可以接受支付宝付款。大概2元人民币左右接一个码，突然感觉淘宝那些卖号的几十块还是共享号的商家真是含泪赚了你的钱。
 
 ### 1.充值
 
@@ -76,12 +76,12 @@ https://sms-activate.org/?ref=4254497
 
 最后注册成功啦，Have fun with ChatGPT!
 
-![](./images/chatgpt-homepage.png)
+![](./images/chatgpt.png)
 
 # 讨论
 
-## TG群
+## DC群
 
-**我创建了一个TG群，遇到问题的小伙伴可以一起讨论**
+**我创建了一个Discord群，遇到问题的小伙伴可以一起讨论**
 
-[![alt text](./images/Logo.png  "telegram")](https://t.me/+dtYvomE5rQI0ZjFl)
+[![alt text](./images/discord.svg  "Discord")](https://discord.gg/bay8YNa7aY)
